@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>publish\</PublishUrlHistory>
+    <InstallUrlHistory />
+    <SupportUrlHistory />
+    <UpdateUrlHistory />
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+    <_LastSelectedProfileId>C:\Users\pc\source\repos\NEA1\NEA1\Properties\PublishProfiles\ClickOnceProfile3.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Forms\CreateOrder\ProductAddOrder.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Login\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\MainMenu\MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\OrderList\Order.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\OrderList\OrderList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Product.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\ProductList\AddProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ProductList\ModifyProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\ProductList\ProductDetails.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Setup\Setup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Setup\UserControls\SetupPg1\Setup1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Setup\UserControls\SetupPg2\AddUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Setup\UserControls\SetupPg2\ModifyBtnClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\Setup\UserControls\SetupPg2\Setup2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Setup\UserControls\SetupPg3\Setup3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Stock\ProductStock.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Stock\StockBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Forms\Stock\StockUpdate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
